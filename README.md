@@ -1,2 +1,2 @@
 # ALGORITMIA
-Full Resoluciones de Algoritmia
+Full Resoluciones de Algoritmia PUCP
